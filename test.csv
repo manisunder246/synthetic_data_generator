@@ -1,0 +1,6 @@
+﻿Field Name,Field Type
+name,Text
+place,Text
+age,Integer
+salary ,Float
+email id,Email
